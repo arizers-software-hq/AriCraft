@@ -1,2 +1,2 @@
-# Arizo-board
-Official beta releases and downloads for Arizo-Board by Arizon Soft.
+# AriCraft
+Official beta releases and downloads for AriCraft by Ariers Software.
